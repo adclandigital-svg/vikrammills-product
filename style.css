@@ -1408,9 +1408,9 @@ img {
   transition: transform 0.5s cubic-bezier(0.22, 0.61, 0.36, 1);
 }
 
-img:hover {
+/* img:hover {
   transform: scale(1.08);
-}
+} */
 
 /* Fix product image default zoom */
 .product-image img {
